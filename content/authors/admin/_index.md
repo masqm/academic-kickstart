@@ -65,4 +65,4 @@ user_groups:
 - Visitors
 ---
 
-My name is Mengyang. I am a Master student in the Electrical&Computer Engineering  Department at Tufts University, advised by Prof. Douglas Preis and working closely with Prof. Chorng Hwa Chang. I'm a member of the Tufts Wireless Lab. My current research focuses on establishing meteorological image database and managing the image data base on machine learning. Moreover, I have research intrests on Network System, Computer Architecture and Cloud Computing.
+My name is Mengyang. I am a Master student in the Electrical&Computer Engineering Department at Tufts University, advised by Prof. Douglas Preis and working closely with Prof. Chorng Hwa Chang. I’m a member of the Tufts Wireless Lab. My current research focuses on establishing meteorological image database and managing the image database on machine learning. Moreover, I have research interests in Network System, Computer Architecture and Cloud Computing.
