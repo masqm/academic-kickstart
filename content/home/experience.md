@@ -18,27 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Teaching Assistant"
+  company = "Tufts University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Boston"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
+  description = """Teaching assistant for Microprocessor Architecture and Application"""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Teaching lab course about microcontroller application
+  * Grading homework and quiz
+  * Holding help session for homework and exam
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Network System Engineer"
+  company = "MOJO DATA Co.Ltd"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing, China"
+  date_start = "2017-06-01"
+  date_end = "2018-10-31"
+  description = """Network transmission and database management"""
+  Responsibilities include:
+  
+  * Maintained a core network for a large database (less than 5 mins/year disconnect time)
+  * Troubleshoot network jammed problem and handled cybersecurity issues
+  * Building image transmission network for China Meteorological Administration
+  * Upgraded networks for Huitone Technology by building a network with more than 500 hosts
 
 +++
